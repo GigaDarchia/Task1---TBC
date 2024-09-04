@@ -59,7 +59,7 @@ root.geometry(f"{WIDTH}x{HEIGHT}+{x_offset}+{y_offset}")
 frame1 = tk.Frame(root, bg="#114149")
 frame1.pack(side="top", fill=tk.X)
 
-title = tk.Label(frame1, text="Currency Exchanger 3000", bg="#114149", fg="red", font=("Helvetica", 24))
+title = tk.Label(frame1, text="Currency Converter 3000", bg="#114149", fg="red", font=("Helvetica", 24))
 title.pack(side="top", padx=10, pady=10)
 
 dropdown_frame = tk.Frame(root, bg="#114149")
