@@ -37,7 +37,7 @@ def reset():
 
 root = tk.Tk()
 
-root.title("Currency Exchange App")
+root.title("Currency Converting App")
 
 root.configure(bg="#114149")
 
