@@ -33,8 +33,8 @@ def rates():
 def reset():
     # Reset input fields and dropdowns to defaults
     user_input.delete(0, tk.END)
-    box1.current(0)
-    box2.current(1)
+    box1.current(92)
+    box2.current(248)
 
     # Clear displayed exchange result
     if hasattr(root, "exchange"):
