@@ -19,8 +19,8 @@ Currency Converter is a simple GUI application built with Python's `tkinter` lib
 
 1. **Clone the Repository**:
     ```sh
-    git clone <repo-url>
-    cd <repo-directory>
+    git clone https://github.com/GigaDarchia/Task1---TBC.git
+    cd Task1---TBC
     ```
 
 2. **Install Required Packages**:
